@@ -1,8 +1,7 @@
 Seawatts portfolio page
 =========================
 
-## How to use
- - Create posts to display your projects. Use the follow as an example:
+## Add new post
 ```txt
 ---
 layout: default
