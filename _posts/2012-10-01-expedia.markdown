@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: expedia.png
+alt: image-alt
+project-date: October 2012
+client: Expedia
+category: Infrastructure
+description: Developed an internal tool to help the data center operations team rotate servers in and out of traffic on the Citrix Netscalar load balancers. I also created a RESTful API in Java with the Spring Framework so other teams could use the service to create scripts. Helped design and implement the front end web client. Created unit and integration tests to increase stability of the tool.As part of an internal demographics tool I rewrote code to increase the performance by 1400%. Took our internal test management system and re-engineered it to take advantage of Amazon Web Services EC2 instances. Implemented a Java program that utilized the AWS API to dynamically scale the EC2 instances based on the number of tests being run. This allowed Expedia to save over $50,000 per month on servers.Created a design document to specify the security risks for connecting from Expedia internal servers to AWS EC2 instances on dedicated ports. Configured IAM roles to create single sign-on authentication through our internal portal to the AWS Management Console
+
+---
